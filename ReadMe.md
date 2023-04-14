@@ -1,5 +1,5 @@
 # 💫 About Me:
-19 y.o. Python backend developer.<br>Gonna study in USA.<br>I'm working with and learning Django, Aiogram, Redis, Postgres.<br>Want to work with AI in future.
+19 y.o. Python backend developer.<br>I'm working with and learning Django, Aiogram, Redis, Postgres.<br>positioning myself as a junior developer.
 
 
 ## 🌐 Socials:
